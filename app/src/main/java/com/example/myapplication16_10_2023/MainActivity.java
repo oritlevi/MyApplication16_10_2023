@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         email= findViewById(R.id.email);
         password= findViewById(R.id.password);
-        email.setText("albert");
-        password.setText("1234");
+        //email.setText("albert");
+        //password.setText("1234");
 
     }
 
